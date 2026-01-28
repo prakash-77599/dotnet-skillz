@@ -27,7 +27,7 @@ Skills are lightweight prompts that teach coding agents how to use CLI tools eff
 
 ```bash
 /plugin marketplace add davidfowl/dotnet-skillz
-/skills add ilspy-decompile
+/plugin install ilspy-decompile@dotnet-skillz
 ```
 
 ### Claude Code
