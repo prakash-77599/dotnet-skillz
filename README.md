@@ -18,7 +18,7 @@ Skills are lightweight prompts that teach coding agents how to use CLI tools eff
 
 ## Requirements
 
-- .NET 8 SDK or newer
+- .NET 10 SDK or newer
 - Claude Code, GitHub Copilot, or any other coding agent
 
 ## Installing Skills
@@ -43,8 +43,8 @@ curl -o .claude/skills/<skill-name>/SKILL.md \
 You can also point your agent directly at a tool's help:
 
 ```
-Decompile MyLibrary.dll using ilspycmd.
-Check ilspycmd --help for available commands.
+Decompile MyLibrary.dll using dnx ilspycmd.
+Check dnx ilspycmd --help for available commands.
 ```
 
 ## Contributing
